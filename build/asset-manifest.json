@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c383548.css",
+    "main.js": "/static/js/main.bc6cb558.js",
+    "static/media/React Js.pdf": "/static/media/React Js.fef64c8b5e689dadd0d2.pdf",
+    "static/media/zuck.jpg": "/static/media/zuck.bd2e2a44064478908718.jpg",
+    "static/media/caps.png": "/static/media/caps.8695fa764f752d8af7d0.png",
+    "static/media/calculator.png": "/static/media/calculator.16a1a023b023e89150f2.png",
+    "static/media/social media ui.jpg": "/static/media/social media ui.89e48760aa9c47b0523b.jpg",
+    "static/media/Elon Musk.webp": "/static/media/Elon Musk.2ef692c8e2bc509c2c0f.webp",
+    "static/media/jeff.webp": "/static/media/jeff.e28c28dda408a25177a4.webp",
+    "static/media/crypto.png": "/static/media/crypto.6352eef4c37fafe9c984.png",
+    "static/media/bill.jpg": "/static/media/bill.566f140cec3b25c8d51e.jpg",
+    "static/media/second.jpg": "/static/media/second.14ea19dba4cf074fa3fd.jpg",
+    "static/media/logo.jpg": "/static/media/logo.d505da874819f8b2bde0.jpg",
+    "static/media/chatapp.png": "/static/media/chatapp.c13891f84523cac30350.png",
+    "static/media/todo.png": "/static/media/todo.75a0c3e1f6691729f35f.png",
+    "index.html": "/index.html",
+    "main.7c383548.css.map": "/static/css/main.7c383548.css.map",
+    "main.bc6cb558.js.map": "/static/js/main.bc6cb558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c383548.css",
+    "static/js/main.bc6cb558.js"
+  ]
+}

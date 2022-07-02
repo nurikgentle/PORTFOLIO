@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './header.css'
 import CTA from './CTA'
-import ME from '../../assets/first.png'
+import ME from '../../assets/logo.jpg'
 import HeaderSocials from './HeaderSocials'
 import Language from '../../components/header/Language'
 
